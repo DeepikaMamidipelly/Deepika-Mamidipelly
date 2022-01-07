@@ -2,7 +2,7 @@
 
 💡 :Experienced in Back-end development
 
-📚 :Currently pursuing Masters in Computer Science
+📚 :Currently pursuing Masters in Computer Science at University of Texas at Dallas
 
 😍 :Passionate about developing.
 
